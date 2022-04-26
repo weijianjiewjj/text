@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T13:28:37.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="wbMHoXk6KyHDTegW-Obs" version="17.4.6" type="github"><diagram id="is4MSi8nLP6QG9QDS6-0" name="Page-1">7VrRcqM2FP0aPYYBhEA8GoOz0yZtZjKdbPqyoxjFsMWWC3Js5+srgTBgsOtNbGNvm5dIVxKgc+85upIM4HC6uk3JPLpnIU2AqYcrAH1gmoYOsfgnLWtlcZBVWCZpHCpbZXiM32k5VFkXcUizRkfOWMLjedM4ZrMZHfOGjaQpWza7vbKk+dY5mdCW4XFMkrb1KQ55VFix6VT2LzSeROWbDdstWqak7KxmkkUkZMuaCQYADlPGeFGaroY0keiVuBTjRjtaNx+W0hk/ZAAZRes7/fvyfrpO/8D3T2v08OeNcsYbSRZqwiBAAGMwsEBgA9cGA18WBoY0BhbwPODZeZPoM5KdXR0MbDVFvi5xE+8WLhIVbxnFnD7OyVi2LEWYCFvEp4moGaLYnoaa2RtNOV3VTGpat5RNKU/XootqNbGCWAUZUtVl5TCj9EJUc5atbETFyGTz5ApGUVBI/gCqqI3qNj4pW8xCGioQzoARbGJk2GcE6Zdv/v3o9/fx8DZboPu//fjX+dONgdtBEwruqSpLecQmbEaSoLJ6FWy6qFV97hibK7C+U87XSkjIgrMmlHQV869yuIZU7bnW4q/Uk/PKulZ5oGks5k3T0jYTGNQeJKvP9bbqUXmtfFYxZznRnTRWpowt0jHdA6AKKk7SCeX7gEbdkZHShPD4rfkhR3ez2akw3hAI0orCwAHYawVCxlP210ZwjaYLhZDOZb/paiIXHe01YctxRFKuZQIL/m0XoXZQpgP8nSyyDFuzXb36Qw1S3Ri620UrqEGjzSx0KmaVNK5h/luvXKsxreJdN9eOyI9Px70a+sBi8eoqBhx92+n6licLSqpxW87cfMgn/Nvm1PPVaGn/ummgA4VzlxicRziNjiwiEElXALwABA7wfFkWmRgWWuqCwAWupSxbuVnVR+RvuEtv04hNXxbZoZnIJzXU1JBZ01CrSScXd0goNDQbtSUUn0pCIbwWQh0zoSg3WP9KDNgnMaB1Lb65ALE73KdWr1liuaFpip03Aq6X70hFpoi65M8BLpLqJuVPWPZttPQzyZtMEZuShq3Ds0LrZJJmtLC50Bywok2DNBWHzkAbeBU5AmznCN2Z/h15oUnTMySJJzNRHgtw5LbWk2Efj0kyUA3TOAyLIKBZ/E5e8udJnOcysc2ngjyA/H28UcdyajDYHIbVfbInWneyTNd0aCsffTSfL7uw19eMniRRt/ql3JWtVIdSDjq9rlSwY6USS9AADPQrzMZNG2tw6xTD6TobPHsG3t7k9nqIYYAPLGBGfwuYdRULWJnt/K+Qx/RpcevWm0LuuFRyAB5doUKi7fO+i5BH6794QAGdAwlgmb1m5U4nAcTm1A1quYIj97YivmXTCHhFuA8ADvKCD7DfOOYT+1yvyDByS9/7XNOxtPIKr2SG3bnP7bhUhCejxU9/NpTXtm8jj8kxfB0cw22OmXYiPtjL5mQmyhNZri08OX1c49O8K14iPrrxnr7piBykYfPi6NhO4nNsPeDCHFsfuKMWdhd7+2vqGrZrNxdOE2/0A8d8H7j8FdXq10LFEUX1oysY/AM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T13:35:54.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="u0cuobV1J0pfTO_bW8Oa" version="17.4.6" type="github">
+  <diagram id="is4MSi8nLP6QG9QDS6-0" name="Page-1">
+    <mxGraphModel dx="1038" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aFhyL0jwMmyrU8MWy5PZ-4" value="判断案件是否" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aFhyL0jwMmyrU8MWy5PZ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-2" target="J_DMFOzcCGsu5MqDiKpW-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-2" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="416.69000000000005" y="-1090" width="123.31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-20" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="-1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-22" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-15" target="J_DMFOzcCGsu5MqDiKpW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-15" value="设置按键是否按下" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="412.52000000000004" y="-980" width="131.65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-21" target="J_DMFOzcCGsu5MqDiKpW-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-21" target="J_DMFOzcCGsu5MqDiKpW-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-21" value="进入设置界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="416.69" y="-840" width="123.31" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-23" target="J_DMFOzcCGsu5MqDiKpW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-35" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="J_DMFOzcCGsu5MqDiKpW-31" vertex="1" connectable="0">
+          <mxGeometry x="0.0363" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-23" target="J_DMFOzcCGsu5MqDiKpW-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-23" value="加按键是否按下" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="268.35" y="-760" width="131.65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-32" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-24" target="J_DMFOzcCGsu5MqDiKpW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-24" target="J_DMFOzcCGsu5MqDiKpW-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-24" value="减按键是否按下" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="-760" width="131.65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-37" target="J_DMFOzcCGsu5MqDiKpW-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-37" value="增加相对于位置数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="274.18" y="-640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J_DMFOzcCGsu5MqDiKpW-38" target="J_DMFOzcCGsu5MqDiKpW-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-38" value="&lt;span&gt;减少相对于位置数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="575.82" y="-640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_DMFOzcCGsu5MqDiKpW-42" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420.86000000000007" y="-540" width="123.31" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
